@@ -51,7 +51,7 @@ html, body {
     color: #181818;
     text-decoration: inherit;
 }
-@media screen and (max-width:980px){
+@media(max-width:980px){
     .wrapper{
         width: 95%;
     }
